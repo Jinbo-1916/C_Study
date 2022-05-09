@@ -1,0 +1,25 @@
+﻿  01 typedef的使用.c
+  02 void使用.c
+  03 sizeof使用.c
+  05 栈区注意事项.c
+  06 堆区使用.c
+  07 static和extern的区别.c
+  09 字符串操作.c
+  08 宏函数.c
+  10 自定义数据类型成员的地址偏移.c
+  11 calloc和realloc的使用.c
+  sscanf的使用.c
+  查找字符串.c
+C:\Users\tang\Desktop\C_Study\c-plus\查找字符串.c(28,19): warning C4047: “return”:“int”与“char **”的间接级别不同
+C:\Users\tang\Desktop\C_Study\c-plus\查找字符串.c(49,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\tang\Desktop\C_Study\c-plus\查找字符串.c(49,9): warning C4313: “printf”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+C:\Users\tang\Desktop\C_Study\c-plus\查找字符串.c(52,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\tang\Desktop\C_Study\c-plus\查找字符串.c(52,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\tang\Desktop\C_Study\c-plus\查找字符串.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\tang\Desktop\C_Study\c-plus\查找字符串.c(53,9): message : 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
+C:\Users\tang\Desktop\C_Study\c-plus\查找字符串.c(39): warning C4715: “test01”: 不是所有的控件路径都返回值
+C:\Users\tang\Desktop\C_Study\c-plus\查找字符串.c(28): warning C4172: 返回局部变量或临时变量的地址: source
+C:\Users\tang\Desktop\C_Study\c-plus\10 自定义数据类型成员的地址偏移.c(77): warning C4716: “main03”: 必须返回一个值
+C:\Users\tang\Desktop\C_Study\c-plus\10 自定义数据类型成员的地址偏移.c(63): warning C4716: “main02”: 必须返回一个值
+  c-plus.vcxproj -> C:\Users\tang\Desktop\C_Study\c-plus\x64\Debug\c-plus.exe
